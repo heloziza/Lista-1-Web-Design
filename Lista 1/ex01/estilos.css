@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(173,230,247);
+    font-size: 40px;
+}
+
+h1{color: rgb(184,0,92);}
+
+li {list-style-type: none; font-size: 35px}
+
+h1{font-family: 'Lobster', cursive;}
+
+
+.lista{
+    text-align: center;
+    padding-top: 20px;
+}
+
+.lista div{
+    width: 19%;
+    margin: 0;
+    display: inline-block;
+}
+
+img.imagens{height: 200px;}

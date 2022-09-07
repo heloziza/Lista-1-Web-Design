@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Orienta&display=swap');
+
+body{
+    font-family: 'Orienta', sans-serif;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(207, 238, 250);
+    /*background-color: rgb(135, 24, 24);*/
+}
+
+div.vid{
+    text-align: center;
+    vertical-align: middle;
+    width: 66%;
+    height: 100%;
+    font-size: 40px;
+}
+
+.video{
+    height: 61%;
+    width: 81%;
+    margin-bottom: 50px;
+}
+
+
+.ima{
+    text-align: center;
+    height: 100%;
+    width: 34%;
+    font-size: 40px;
+}
+
+h1{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+

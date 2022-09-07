@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Orienta&display=swap');
+
+body{
+    font-family: 'Orienta', sans-serif;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    background-color: rgb(207, 238, 250);
+}
+
+.caixa{
+    width: 500px;
+    height: 700px;
+    border: 10px solid rgb(67, 54, 117);
+    background-color: rgb(191, 175, 253);
+}
+
+.titulo{
+    color: rgb(255, 255, 255);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 30px;
+    background-color: rgb(67, 54, 117);
+}
+
+.nomezinho{
+    text-align: left;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 43px;
+}
+
+.nome{
+    width: 410px;
+    height: 50px;
+}
+
+.emailzinho{
+    text-align: left;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-left: 43px;
+}
+
+.email{
+    width: 410px;
+    height: 50px;
+}
+
+.textozinho{
+    text-align: left;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-left: 43px;
+}
+
+.texto{
+    width: 410px;
+    height: 290px;
+}
+
+.botao{
+    padding-left: 43px;
+    text-align: left;
+}
+
+button[type="submit"] {
+    font-size: 15px;
+    margin-top: 5px;
+    padding: 10px;
+    background-color: rgb(207, 238, 250);
+}
+
+button[type="submit"]:hover {
+    color: white;
+    font-size: 15px;
+    margin-top: 5px;
+    padding: 10px;
+    background-color: rgb(67, 54, 117);
+    border-radius: 10px 10px 10px 10px;
+}

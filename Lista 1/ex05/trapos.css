@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&display=swap');
+
+body{
+    font-family: 'Crimson Text', serif;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    background-color: rgb(207, 238, 250);
+}
+
+table{
+    width: 98%;
+    height: 80%;
+}
+
+table caption{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+table td{
+    vertical-align: middle;
+    border: solid black 3px;
+    font-size: 25px;
+    width: 260px;
+    padding: 10px;
+}
+
+table td p{
+    margin-top: 5px;
+}
+
+.comida{
+    background-color: rgb(255, 205, 176);
+}
+.segunda{
+    background-color: rgb(251, 255, 176);
+}
+.terça{
+    background-color: rgb(177, 255, 176)
+}
+.quarta{
+    background-color: rgb(176, 242, 255)
+}
+.quinta{
+    background-color: rgb(213, 176, 255)
+}
+.sexta{
+    background-color: rgb(255, 176, 223)
+}
